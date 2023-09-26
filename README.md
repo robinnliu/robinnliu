@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome!
 
+Hi! I am Robin, an Aerospace Engineering and Electrical Engineering Student at Georgia Tech! I am interested in Dynamic System Control and Open-source programming in general. Feel free to rearch out!
 <!--
 **robinnliu/robinnliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
